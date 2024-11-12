@@ -7,7 +7,7 @@ projects: ["joshjohanning-org/17"]
 assignees:
   - octocat
 body:
-  - type: markd0wn
+  - type: markdown
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
