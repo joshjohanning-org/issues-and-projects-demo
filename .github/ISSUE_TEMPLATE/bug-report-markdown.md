@@ -4,6 +4,7 @@ about: Use this template for tracking new bugs.
 title: "[DATE]: [FEATURE NAME]"
 labels: bug
 assignees: joshjohanning
+type: bug
 ---
 
 ## Bug Report
