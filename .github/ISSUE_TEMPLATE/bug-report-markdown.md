@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report - markdown
 about: Use this template for tracking new bugs.
 title: "[DATE]: [FEATURE NAME]"
 labels: bug
