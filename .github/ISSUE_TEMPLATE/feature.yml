@@ -1,0 +1,22 @@
+name: Feature
+description: Create a Feature
+title: "[Feature]: "
+labels: ["feature", "triage"]
+type: feature
+projects: ["joshjohanning-org/17"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Acceptance criteria
+      description: what is the acceptance criteria?
+      placeholder: The feature must do x
+      value: "A feature!"
+    validations:
+      required: true
